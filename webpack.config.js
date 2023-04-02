@@ -13,7 +13,7 @@ module.exports = {
       directory: path.join(__dirname, "/"),
     },
   },
-  devtool: "inline-source-map",
+
   module: {
     rules: [
       {
